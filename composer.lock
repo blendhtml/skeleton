@@ -46,16 +46,16 @@
         },
         {
             "name": "blendhtml/blendhtml",
-            "version": "v0.1.0",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/blendhtml/blendhtml.git",
-                "reference": "330d482bbc1073d49d21f8b9145dc2473c56664f"
+                "reference": "2297e58f658e992ef1121b3cc199e4c58d8bade6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/blendhtml/blendhtml/zipball/330d482bbc1073d49d21f8b9145dc2473c56664f",
-                "reference": "330d482bbc1073d49d21f8b9145dc2473c56664f",
+                "url": "https://api.github.com/repos/blendhtml/blendhtml/zipball/2297e58f658e992ef1121b3cc199e4c58d8bade6",
+                "reference": "2297e58f658e992ef1121b3cc199e4c58d8bade6",
                 "shasum": ""
             },
             "require": {
@@ -88,9 +88,9 @@
             "description": "Micro framework both for human and AI. Server-side rendering, cascading filesystem strategy",
             "support": {
                 "issues": "https://github.com/blendhtml/blendhtml/issues",
-                "source": "https://github.com/blendhtml/blendhtml/tree/v0.1.0"
+                "source": "https://github.com/blendhtml/blendhtml/tree/v0.1.1"
             },
-            "time": "2026-07-30T12:29:27+00:00"
+            "time": "2026-07-31T07:16:20+00:00"
         },
         {
             "name": "blendhtml/components",
