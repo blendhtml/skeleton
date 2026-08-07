@@ -20,6 +20,6 @@
     ],
     "keywords": [],
     "require": {
-        "blendhtml/blendhtml": "^0.1.0"
+        "blendhtml/blendhtml": "^0.2.0"
     }
 }
